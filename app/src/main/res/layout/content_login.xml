@@ -37,4 +37,10 @@
         android:layout_height="wrap_content"
         android:id="@+id/editText2"
         android:inputType="textPassword" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/LoginButton"
+        android:id="@+id/button2" />
 </LinearLayout>

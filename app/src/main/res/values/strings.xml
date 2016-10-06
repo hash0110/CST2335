@@ -8,4 +8,10 @@
     <string name="SwitchText">Enable Something</string>
     <string name="RadioText">Button 1</string>
     <string name="CheckText">Button 2</string>
+    <string name="LoginButton">Login</string>
+    <string name="saved_email"> </string>
+    <string name="dialog_message">Do you want to finish the activity?</string>
+    <string name="dialog_title">Message</string>
+    <string name="ok">Affirmative</string>
+    <string name="notok">Negative</string>
 </resources>
