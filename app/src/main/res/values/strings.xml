@@ -14,4 +14,5 @@
     <string name="dialog_title">Message</string>
     <string name="ok">Affirmative</string>
     <string name="notok">Negative</string>
+    <string name="ChatButton">Start Chat</string>
 </resources>
