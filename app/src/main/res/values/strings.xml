@@ -15,4 +15,5 @@
     <string name="ok">Affirmative</string>
     <string name="notok">Negative</string>
     <string name="ChatButton">Start Chat</string>
+    <string name="SendButton">Send</string>
 </resources>
