@@ -16,4 +16,11 @@
     <string name="notok">Negative</string>
     <string name="ChatButton">Start Chat</string>
     <string name="SendButton">Send</string>
+    <string name="title_activity_weather_forecast">WeatherForecast</string>
+    <string name="WeatherButton">Forecast</string>
+    <string name="CurrentTemp">Current Temperature:</string>
+    <string name="MinTemp">Minimum Temperature:</string>
+    <string name="MaxTemp">Maximum Temperature:</string>
+    <string name="title_message_list">Messages</string>
+    <string name="title_message_detail">Message Detail</string>
 </resources>

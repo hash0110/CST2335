@@ -36,11 +36,8 @@ public class ChatWindow extends AppCompatActivity {
 
         temp = new ChatDatabaseHelper(this);
         db = temp.getWritableDatabase();
-
-
-
-
         Cursor c = db.query(false, temp.TABLE, new String[]{temp.KEY_MESSAGE}, null, null, null, null, null, null);
+
         c.moveToFirst();
         int columnIndex = c.getColumnIndex(temp.KEY_MESSAGE);
         while(!c.isAfterLast()){
